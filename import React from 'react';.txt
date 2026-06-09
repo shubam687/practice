@@ -13,3 +13,4 @@ export default DummyComponent;
 
 Git changes
 New changes in practice branch
+git command

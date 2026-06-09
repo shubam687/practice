@@ -7,4 +7,4 @@ git commands
 -git pull origin branchname
 -git checkout-b
 -git checkout branchname
--
+commands
