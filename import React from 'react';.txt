@@ -11,4 +11,5 @@ const DummyComponent = () => {
 
 export default DummyComponent;
 
-Git chnages
+Git changes
+New changes in practice branch
