@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 git commands
 -git clone
 -git changes 
@@ -9,3 +10,16 @@ git commands
 -git checkout branchname
 commands
 reacting
+=======
+git commands
+-git clone
+-git changes 
+-git add 
+-git commit -m'message'
+-git push origin branchname
+-git pull origin branchname
+-git checkout-b
+-git checkout branchname
+commands
+react
+>>>>>>> 685f6c5cde34c95fcdb51a3808158dbd71eeb645
