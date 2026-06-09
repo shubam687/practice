@@ -1,0 +1,10 @@
+git commands
+-git clone
+-git changes 
+-git add 
+-git commit -m'message'
+-git push origin branchname
+-git pull origin branchname
+-git checkout-b
+-git checkout branchname
+-
